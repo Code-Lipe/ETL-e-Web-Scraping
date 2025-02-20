@@ -1,0 +1,15 @@
+2025-Feb-20-13:37:02 : Preliminares concluídas. Iniciando o processo ETL
+2025-Feb-20-13:37:03 : Processo de extração concluído
+2025-Feb-20-13:37:03 : Iniciando o processo de transformação
+2025-Feb-20-13:37:03 : Processo de transformação concluída
+2025-Feb-20-13:37:03 : Iniciando o processo de Carga
+2025-Feb-20-13:37:03 : Dados salvos no arquivo CSV
+2025-Feb-20-13:37:03 : Conexão SQL iniciada
+2025-Feb-20-13:37:03 : Dados carregados no Banco de Dados como uma tabela.
+2025-Feb-20-13:37:03 : Primeira consulta:
+2025-Feb-20-13:37:03 : Executando consulta
+2025-Feb-20-13:37:03 : Segunda consulta:
+2025-Feb-20-13:37:03 : Executando consulta
+2025-Feb-20-13:37:03 : Terceira consulta:
+2025-Feb-20-13:37:03 : Executando consulta
+2025-Feb-20-13:37:03 : Processo completo

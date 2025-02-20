@@ -1,0 +1,5 @@
+requests
+pandas
+numpy
+sqlite3
+beautifulsoup4
